@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+MERN+Developer;AWS+Cloud+Learner;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Cloud+%26+DevOps+Learner;Building+Real-World+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+MERN+De[...]" />
 </p>
 
 <p align="center">
@@ -194,7 +194,7 @@
 # 🐍 GitHub Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="800"/>
+<img src="https://raw.githubusercontent.com/Sagar-2001-thapnauwa/Profile/main/generated_snake/github-contribution-grid-snake.svg" width="800"/>
 </p>
 <p align="center">
   <b>🚀 Learning • Building • Contributing • Growing</b>
