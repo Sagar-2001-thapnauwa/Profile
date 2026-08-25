@@ -275,7 +275,6 @@ Exploring practical AI and Machine Learning applications.
 <p align="center">
   <b>🚀 Learning • Building • Contributing • Growing</b>
 </p>
----
 
 # 🎯 2026 Learning Roadmap
 
