@@ -178,64 +178,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏥 Telemedicine Platform
-
-A secure role-based web telemedicine platform designed for patients, doctors, and administrators.
-
-### ✨ Features
-
-* 🔐 JWT Authentication
-* 🔑 Google OAuth 2.0
-* 👥 Role-Based Access Control
-* 👨‍⚕️ Doctor Verification & Approval
-* 📅 Appointment Booking
-* 🔄 Appointment Management
-* 💬 Real-Time Chat
-* 📁 File & Document Sharing
-* 🎥 WebRTC Video Consultation
-* ⚡ Socket.IO Communication
-* ☁️ Cloudinary Integration
-* 🤖 AI/ML Integration
-
-### 🧰 Technology
-
-`React` `Node.js` `Express` `MongoDB` `WebRTC` `Socket.IO` `Cloudinary`
-
----
-
-## ☁️ AWS EC2 Web Server Deployment
-
-A cloud deployment project focused on hosting and securing a web application on AWS EC2.
-
-### 🧰 Technology
-
-`AWS EC2` `Linux` `Nginx` `Cloudflare` `Let's Encrypt` `SSL`
-
-### ✨ Skills Demonstrated
-
-* EC2 instance configuration
-* Linux server administration
-* Nginx reverse proxy
-* Domain configuration
-* HTTPS / SSL configuration
-* Cloudflare integration
-* Cloud networking fundamentals
-
----
-
-## 🤖 Machine Learning Projects
-
-Exploring practical AI and Machine Learning applications.
-
-* 🏏 Cricket Prediction System
-* 😷 Face Mask Detection
-* 🎬 Movie Recommendation System
-* 🧠 Machine Learning Prediction Models
-* 🤖 AI-powered applications
-
----
 
 # 📊 GitHub Analytics
 
@@ -252,54 +194,12 @@ Exploring practical AI and Machine Learning applications.
 # 🐍 GitHub Contribution Activity
 
 <p align="center">
-  <picture>
-    <!-- Dark Mode Snake Animation -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sagar-2001-thapnauwa/Sagar-2001-thapnauwa/output/github-snake-dark.svg"
-    />
-    <!-- Light Mode Snake Animation -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sagar-2001-thapnauwa/Sagar-2001-thapnauwa/output/github-snake.svg"
-    />
-    <!-- Fallback Image -->
-    <img
-      src="https://raw.githubusercontent.com/Sagar-2001-thapnauwa/Sagar-2001-thapnauwa/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="800"/>
 </p>
-
 <p align="center">
   <b>🚀 Learning • Building • Contributing • Growing</b>
 </p>
 
-# 🎯 2026 Learning Roadmap
-
-```text
-                         SOFTWARE ENGINEERING
-                                  │
-             ┌────────────────────┼────────────────────┐
-             │                    │                    │
-             ▼                    ▼                    ▼
-        FULL STACK            CLOUD / DEVOPS        AI / ML
-             │                    │                    │
-             ├─ React             ├─ AWS              ├─ Python
-             ├─ Node.js           ├─ Docker           ├─ Machine Learning
-             ├─ Express           ├─ Kubernetes       ├─ Deep Learning
-             ├─ MongoDB           ├─ CI/CD            └─ Generative AI
-             └─ REST APIs         └─ Linux
-                                  │
-                                  ▼
-                         DISTRIBUTED SYSTEMS
-                                  │
-                                  ▼
-                          REAL-WORLD PROJECTS
-```
-
----
 
 # 📚 Areas of Interest
 
